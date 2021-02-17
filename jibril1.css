@@ -1,0 +1,159 @@
+body{
+ 
+    background-color: rgb(190, 190, 190);
+     
+    
+    }
+    
+    #abraham{
+     font-size: 15;
+      
+      text-align:justify;
+      font-family:Arial, Helvetica, sans-serif;
+      color:rgb(248, 238, 238);
+      padding-left: 300px;
+      padding-right: 400px;
+      padding-top: 100px;
+    
+    background-color: rgb(0, 0, 0);
+     
+    }
+    
+    
+    
+    #h1{
+      color: white;
+    size: 100px;
+    background-color:rgb(53, 53, 53);s
+    padding-right: 400px;
+    padding-left: 400px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    
+    text-align: center;
+    text-decoration:underline;
+    padding-bottom: 300px;
+    }
+    
+    /*tools*/
+    
+    .picright{
+      padding-left: 300px;
+      padding-top: 40px;
+      border-radius: 100px;
+    
+    
+    }
+    
+    .tireone{
+      border-radius: 100px;
+      float:inline-start;
+      padding-left: 50px;
+      padding-bottom: 20px
+    
+      
+    }
+    
+    
+    #h1{
+    padding: auto;
+      text-indent: 100px;
+      background-color: rgb(74, 74, 90);
+     padding-right: 100px;
+     padding-left: 100px;
+     padding-top: 100px;
+     font-size: medium;
+     color: white;
+     border-radius: 50px;
+    background-attachment: fixed;
+    }
+    
+    #ATEWA{
+      font-size: 15px;
+      font-weight: 100;
+      text-align: justify;
+      font-family:Arial, Helvetica, sans-serif;
+      color:white;
+     background-color:rgb(18, 12, 34);
+     padding-right: 200px;
+     padding-left: 200px;
+     padding-top: 100px;
+    }
+    
+    #h2{
+      padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: rgb(212, 212, 231);
+    background-color:rgb(126, 118, 118);s
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    size: 1000px;
+    text-align: center;
+    text-decoration:underline;
+    
+    }
+    #ABRISH{
+      padding-left: 300px;
+    }
+    #h3{
+    padding-top: 100px;
+    background-color: rgb(47, 47, 48);
+    font-size: 50px;
+    color: white;
+    font-style:normal;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+    }
+    #bamlak{
+      font-size: medium;
+      padding-right: 200px;
+      padding-top: 100px;
+      padding-left: 00px;
+      color: rgb(213, 215, 226);
+    }
+    
+    *{
+      padding: 00;
+      margin: 00px;
+      color: white;
+    }
+    body{
+      text-align: center;
+    }
+    .wrapper{
+       width: 1170px;
+       margin: auto;
+      }
+    
+      header{
+        
+        height: 100px;
+        background: rgb(2, 17, 7);
+        width: 100%;
+        z-index: 12;
+        position: fixed;
+        color: white;
+    
+      }
+       
+    .logo{
+      width: 30%;
+      float: left;
+      line-height: 1000px
+    }
+    .logo{
+      text-decoration: none;
+      font-size: 30px;
+      font-family: bignoodletitling;
+      color: rgb(90, 85, 85);
+      letter-spacing: 20px;
+    }
+    nav{
+      float:right;
+      line-height: 100px;
+    }
+    nav{
+      transition: .4s;
+    }
